@@ -1,2 +1,2 @@
 # Test-matches
-Test matches are played between national representative teams
+Test matches that are played between national representative teams
